@@ -70,10 +70,6 @@ The analysis revealed significant disparities between the two markets and highli
 *   **Underperformers:** Conversely, the bottom 10 products with the lowest sales were all located in the **Polish** market.
 *   This stark contrast underscores the performance gap between the two countries and points to a need for a deeper investigation into the Polish market's product strategy and distribution.
 
-### 📈 3. (Add your findings for channels and YoY change here)
-*   *Example:* The "Hospital" channel was the leading sub-channel in Germany, while "Retail" was more prominent in Poland's limited sales data.
-*   *Example:* Year-over-year analysis shows a steady growth in Germany through the "Pharmacy" channel, while Polish channels show inconsistent activity due to missing data years.
-
 ---
 
 ## 🚀 How to Use This Project
