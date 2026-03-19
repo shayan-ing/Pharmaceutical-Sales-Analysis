@@ -32,7 +32,7 @@ The following actions were taken to perform data cleaning:
 
 # Findings
 
-![](https://github.com/Inemesit1995/Pharmaceutical-sales-analysis/blob/main/Dashboard.png)
+![](https://github.com/shayan-ing/Pharmaceutical-Sales-Analysis/blob/main/Dashboard.png)
 
 The following are the findings from the analysis of the sales data:
 - In analysing the sales data shared by each distributor with Foresight Pharmaceutical Company, it became clear that there were no sales in Poland in 2017, 2019 and 2020. This had a significant impact on the total sales made in Poland which stood at **5.77%** as against Germany's **94.23%**. One of the factors that contributed to this situation would have been that products were not delivered to distributors in Poland.
