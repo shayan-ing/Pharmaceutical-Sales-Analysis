@@ -26,7 +26,7 @@ The following actions were taken to perform data cleaning:
 - The data types of each column were properly validated.
 - The latitude and longitude columns were removed from the table, since it was not important to our analysis.
 
-![](https://github.com/Inemesit1995/Pharmaceutical-sales-analysis/blob/main/Data_cleaning.png)
+![](https://github.com/shayan-ing/Pharmaceutical-Sales-Analysis/blob/main/Data_cleaning.png)
 
 
 
