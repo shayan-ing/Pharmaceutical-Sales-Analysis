@@ -1,6 +1,5 @@
 # 💊 Pharmaceutical Sales Analysis
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Dataset](https://img.shields.io/badge/Dataset-Foresight%20BI-blue)](https://foresightbi.com.ng/practice-data/3-datasets-for-your-portfolio/)
 
@@ -93,7 +92,7 @@ The analysis revealed significant disparities between the two markets and highli
 
 ## 🤝 Connect & Contribute
 
-Feel free to fork this project, raise issues, or submit pull requests. If you have any questions or suggestions, you can reach out to me on [LinkedIn](Your-LinkedIn-Profile-Link) or [Twitter](Your-Twitter-Handle).
+Feel free to fork this project, raise issues, or submit pull requests. If you have any questions or suggestions, please drop a mail to me!
 
 **If you find this project helpful, please consider giving it a ⭐!**
 
